@@ -1,4 +1,4 @@
-# Master Jogos Bíblicos 1.1.5
+# Master Jogos Bíblicos
 
 APK com persistência corrigida. Repositório privado.
 
