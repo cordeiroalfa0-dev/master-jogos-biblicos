@@ -22,9 +22,9 @@ SHA-256: `ea42d903ed8b4313d9c62fd9920c20c281293c8c5923cfd5bd87fd9447ca79e8`
 
 ## Nova versão do tabuleiro
 
-Arquivo: `Master-Jogos-Biblicos-base-1.1.5-tabuleiro-maior.zip`
+Arquivo: `Master-Jogos-Biblicos-codigo-fonte-1.1.5-contactos-foto-certificacao.zip`
 
-SHA-256: `df0f9e2812ac8c74a3c7486891cc6b938f3296b547740e7a8d9966988afb9e48`
+SHA-256: `7b9e344455ee957ac65018276d099aea797f5c238857a6d32da42c7758e2803b`
 
 ## Instalador atualizado
 
