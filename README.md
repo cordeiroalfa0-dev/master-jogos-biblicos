@@ -28,6 +28,6 @@ SHA-256: `7b9e344455ee957ac65018276d099aea797f5c238857a6d32da42c7758e2803b`
 
 ## Instalador atualizado
 
-- [Baixar Master Jogos Bíblicos Setup 1.1.5 — Tabuleiro Maior](https://github.com/cordeiroalfa0-dev/master-jogos-biblicos/releases/download/v1.0.0/Master-Jogos-Biblicos-Setup-1.1.5-apenas-um-apk.exe)
+- [Baixar Master Jogos Bíblicos Setup 1.1.5 — Tabuleiro Maior](https://github.com/cordeiroalfa0-dev/master-jogos-biblicos/releases/download/v1.0.0/Master-Jogos-Biblicos-Setup-1.1.5.exe)
 
-SHA-256: `3008f03adcab01a91a340b23e02fb2a1c2b17448e2b4b53751d8bf6d3399e7cd`
+SHA-256: `5940c42fd3cc701b87390a711bded32a1eb7e53332065a5b11cc2aa84d6cab11`
